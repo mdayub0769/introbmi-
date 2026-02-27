@@ -1,6 +1,6 @@
 # introbmi-
 s3file export 
-# Hi there, I'm mdayub0769 👋
+# Hi there, I'm Ayubsheikh30 👋
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to creating meaningful solutions through code.
 
@@ -25,7 +25,7 @@ I'm committed to continuous learning and building projects that make an impact. 
 
 Here are some of my most notable projects:
 
-- **[Project Name](link)** - Brief description of what this project does
+- **[Project Name](https://www.linkedin.com/in/ayub-sheikh-135202249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** - Brief description of what this project does
 - **[Project Name](link)** - Brief description of what this project does
 - **[Project Name](link)** - Brief description of what this project does
 
@@ -35,9 +35,9 @@ Here are some of my most notable projects:
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayub-sheikh-135202249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🐦 [Twitter](your-twitter-url)
-- 📧 [Email](mailto:your-email)
+- 📧 [Email](ayubsheikh7511@email)
 - 🌍 [Website](your-website-url)
 
 ## 📫 How to Reach Me
